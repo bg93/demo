@@ -1,2 +1,2 @@
-# demo
-Demo Project
+# DEMO Project
+Github tests
