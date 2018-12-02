@@ -1,2 +1,2 @@
 # DEMO Project
-Github tests
+Proyecto para realizar pruebas en Github.
